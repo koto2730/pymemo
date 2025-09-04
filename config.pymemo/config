@@ -1,0 +1,8 @@
+[Main]
+WORK_DIR=/home/xxxx/pymemo_work_folder
+BASE_ENCODE=utf-8
+FILE_SIZE=32000
+
+[Window]
+LCOLOR=blue
+LCOLOR2=green
